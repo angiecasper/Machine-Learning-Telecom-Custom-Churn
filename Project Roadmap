@@ -1,0 +1,11 @@
+Exploratory Data Analysis: missing/duplicate values, outlier detection, balance class, 
+Visualization for Distribution, SNS heatmap for Numerical Featuer Correlation, and numericla feature with Churn, barplot for Categorical Feature with Churn
+Split Training test data
+Feature Encoding: Frequency Encoding, Target Encoding
+RobustScalar to scale when there is outlier data
+Feature Selection: Random Forest Feature Importance/ Redundancy Consideration Variability (Variance)
+Balance Class: ADASYN to balance imbalanced Churn
+Model Selection.5-Fold Cross validation
+Confusion Matrix Review
+Create preprocessing pipeline
+test new data
